@@ -7,7 +7,7 @@ pipeline {
         stage('Lint') {
             steps {
                 sh chef exec rubocop -r cookstyle
-                sh chef exec foodcritic -t correctness .
+                //sh chef exec foodcritic -t correctness .
             }
         }
         stage('Test') {
