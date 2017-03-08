@@ -1,4 +1,4 @@
 # segway_site
 
-TODO: Enter the cookbook description here.
+Testing chef cookbooks.
 
