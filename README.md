@@ -1,4 +1,4 @@
 # segway_site
 
-Testing chef cookbooks with Jenkins.
+Testing chef cookbook with Jenkins.
 
